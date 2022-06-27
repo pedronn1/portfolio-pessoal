@@ -1,5 +1,5 @@
 # portfolio-pessoal
-Meu primeiro Portfólio pessoal
+Meu primeiro Portfólio pessoal 😊.
 
 Meu primeiro portfólio com algumas características minhas, link que levam a redes sociais minha e um bônus que é um Snake game!
 
