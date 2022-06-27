@@ -6,3 +6,5 @@ Meu primeiro portfólio com algumas características minhas, link que levam a re
 Eu já tinha feito um site bem simples mas foi apenas meu primeiro contato com HTML, neste projeto coloquei em prática as linguagem HTML, CSS e JS.
 
 Para entrar no site apenas clique no link e fique a vontade para deixar sugestões!
+
+Pode acessar este site pelo link: https://pedronn1.github.io/portfolio-pessoal/
