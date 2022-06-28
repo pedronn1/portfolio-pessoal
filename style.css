@@ -85,6 +85,11 @@ header {
     align-items: center;
 }
 
+.profileText h3 {
+    margin-bottom: 20px;
+}
+
+
 .profileText {
     max-width: 70ch;
 }
