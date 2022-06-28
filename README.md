@@ -7,4 +7,4 @@ Eu já tinha feito um site bem simples mas foi apenas meu primeiro contato com H
 
 Para entrar no site apenas clique no link e fique a vontade para deixar sugestões!
 
-Pode acessar este site pelo link: https://pedronn1.github.io/portfolio-pessoal/
+Pode acessar este site pelo link: http://pedro.social/index.html
