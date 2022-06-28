@@ -85,6 +85,10 @@ header {
     align-items: center;
 }
 
+.profileText {
+    max-width: 70ch;
+}
+
 .footer-container {
     min-width: 0px;
     max-width: 1200px;
