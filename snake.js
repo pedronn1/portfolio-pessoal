@@ -86,7 +86,7 @@ function update() {
     
     for (let i = 0; i < snakeBody.length; i++) {
 
-        /* Se a cobra se comer, no caso virar para o mesmo lado q o corpo dela esta game over */
+        /* Se a cobra se comer, no caso virar para o mesmo lado q o corpo dela esta, game over */
         if (snakeX == snakeBody[i][0] && snakeY == snakeBody[i][1]) {
             gameOver = true;
             alert("Game Over, a cobra comeu seu próprio, Pressione F5 para recomeçar");
